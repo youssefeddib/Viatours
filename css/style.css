@@ -1,0 +1,25 @@
+Global Styles /
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  color: #1E293B;
+  line-height: 1.6;
+}
+header ul {
+  margin-right: 250px;
+}
+
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 40px;
+  background-color: #FFF3E0;
+}
+
