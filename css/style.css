@@ -27,3 +27,15 @@ header .logo {
     font-weight: bold;
     color: #FF5722;
 }
+
+header ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+header ul li a {
+    text-decoration: none;
+    color: #475569;
+    font-size: 1rem;
+}
